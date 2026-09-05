@@ -49,3 +49,5 @@ SELECT value FROM production WHERE key = 'user_token_99'
 -- Terminate network socket channel connections gracefully
 EXIT
 ```
+
+<img width="598" height="279" alt="narmada" src="https://github.com/user-attachments/assets/d33283ea-33a4-47f9-8cb3-c74df9368c83" />
