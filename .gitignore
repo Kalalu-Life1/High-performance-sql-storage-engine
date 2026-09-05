@@ -1,0 +1,8 @@
+# Ignore system-generated database files and runtime crash logs
+*.db
+*.log
+# Ignore compiled system binaries and directory build outputs
+kv_server
+engine_test
+build/
+.cache/
